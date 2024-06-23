@@ -1,0 +1,7 @@
+numpy==1.26.4
+fastapi
+transformers
+openai-whisper
+torch
+uvicorn
+python-dotenv
